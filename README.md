@@ -9,3 +9,5 @@ second_stage_xgboost.ipynb uses those intermediate csv results to train a xgboos
 For other infomation, please see the pdf document.  
 
 (I got the 7th out of over 200 competitors on the leaderboard!) 
+
+Also I built an image repository for this project here: https://github.com/aaazyq/An-image-repository-for-e-commerce-products
